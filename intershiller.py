@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #Daniel Marin
-#20/06/2015
+#03/09/2015
 #This program gets profiles from interpals.net and responds to them automatically
 
 import time
