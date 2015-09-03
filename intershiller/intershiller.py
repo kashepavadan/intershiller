@@ -12,7 +12,7 @@ from requests.adapters import HTTPAdapter
 import re
 import random
 import getpass
-import cleverbot
+import cleverbot #only in same folder!
 
 mindelay = 1
 maxdelay = 5
