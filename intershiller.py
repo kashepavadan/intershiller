@@ -12,9 +12,9 @@ from requests.adapters import HTTPAdapter
 import re
 import random
 import getpass
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'cleverbot'))
-#import cleverbot.py
-import cleverbot.py
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+#import cleverbot
+import cleverbot
 
 mindelay = 1
 maxdelay = 5
