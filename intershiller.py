@@ -13,7 +13,6 @@ import re
 import random
 import getpass
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-#import cleverbot
 import cleverbot
 
 mindelay = 1
